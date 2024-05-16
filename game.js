@@ -107,7 +107,7 @@ function checkIfCollapse(barrier){
                 startGame = gameOver();
             }
     }
-    // talaly
+    // talaj
     if(bird.position.y + 15 > gameBoard.height){
         ongoing = false;
         startGame = gameOver();
